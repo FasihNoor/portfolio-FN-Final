@@ -1,8 +1,8 @@
 import ProjectCard from "../components/Projectcard";
 import { Container, Row, Col } from "react-bootstrap";
-import netfliximage from "src/assets/images/netflix.jpg";
-import todolist from "src/assets/images/todolist.png";
-import natours from "src/assets/images/natours.png";
+import netfliximage from "/src/assets/images/netflix.jpg";
+import todolist from "/src/assets/images/todolist.png";
+import natours from "/src/assets/images/natours.png";
 import "../pages/style.css";
 
 
